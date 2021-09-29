@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="Input">Enter the Decimal Value</string>
+    <string name="Output">Output</string>
+    <string name="Button">Convert</string>
+</resources>
